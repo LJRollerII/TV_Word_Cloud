@@ -2,7 +2,7 @@
 
 # Synopsis
 
-In this project I created word cloud images of episodes of popular televsion shows. These images will allow the viewer to see which words were used the most in an episode. 
+In this project I created word cloud images of episodes of popular television shows. These images will allow the viewer to see which words were used the most in an episode. 
 
 The bigger the text size, the more frequent the word was used.
 
